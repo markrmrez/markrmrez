@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something interesting...
-- 🌱 I’m currently busy learning everything.
+I’m currently working on something interesting...
 
-
-- ⚡ Fun fact: Best way to learn is to try!
+Fun fact: Best way to learn is to try!
 
